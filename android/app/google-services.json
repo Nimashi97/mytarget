@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408832556845",
+    "project_id": "mytarget-ff210",
+    "storage_bucket": "mytarget-ff210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408832556845:android:044cccd10e2d186224dda4",
+        "android_client_info": {
+          "package_name": "com.nimashi.mytarget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408832556845-avh046741oeidtdsq893r1rq6h8h5e49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsRGqjy7OEHegDqHUmxtrtNanmxnOqZGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408832556845-avh046741oeidtdsq893r1rq6h8h5e49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
